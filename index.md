@@ -18,8 +18,7 @@
 
 # Helix - themakoshark
 
-It works! themakoshark is up and running.
-Yippee! Again?
+It works! themakoshark appears to be up and running.
 
 ## What's next?
 
