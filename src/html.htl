@@ -24,7 +24,6 @@
     <link rel="stylesheet" href="/style.css"/>
 </head>
 <body>
-
 <div data-sly-list="${content.children}">
     <div class="container">${item}</div>
 </div>
